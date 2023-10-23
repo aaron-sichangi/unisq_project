@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "650853821789",
+    "firebase_url": "https://unisqlproject-default-rtdb.firebaseio.com",
+    "project_id": "unisqlproject",
+    "storage_bucket": "unisqlproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650853821789:android:565cae2a1aea8c50beccb4",
+        "android_client_info": {
+          "package_name": "com.example.unisq_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfXeZR51GDP1fLnFRbvht4Zz3qVQEgFJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
